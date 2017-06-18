@@ -7,7 +7,7 @@ Initial release of 06/13/2017
 
 ## Usage
 
-![usage](https://github.com/keyring/vsc-lua/raw/master/images/usage.png)
+![usage](https://raw.githubusercontent.com/yaddle/VS-Code/master/image/usage.png)
 
 -----------------------------------------------------------------------------------------------------------
 

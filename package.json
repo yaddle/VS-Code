@@ -4,6 +4,12 @@
 	"description": "GosExt autocompletion API",
 	"version": "0.0.1",
 	"publisher": "Yaddle",
+    "icon": "images/logo.png",
+    "galleryBanner": {
+		"color": "#313191",
+		"theme": "dark"
+	},
+	"license": "MIT",
 	"engines": {
 		"vscode": "^1.12.0"
 	},
