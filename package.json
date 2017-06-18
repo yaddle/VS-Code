@@ -1,21 +1,26 @@
 {
-    "name": "GosExt",
-    "displayName": "GosExt",
-    "description": "GosExt autocompletion API",
-    "version": "0.0.1",
-    "publisher": "Yaddle",
-    "engines": {
-        "vscode": "^1.12.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "lua",
-                "path": "./snippets/snippets.json"
-            }
-        ]
-    }
+	"name": "GosExt",
+	"displayName": "GosExt",
+	"description": "GosExt autocompletion API",
+	"version": "0.0.1",
+	"publisher": "Yaddle",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "lua",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yaddle/VS-Code.git"
+	},
+	"__metadata": null
 }
