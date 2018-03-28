@@ -15,7 +15,7 @@ Added updates of Gos Ext API (03/28/2017)
 -----------------------------------------------------------------------------------------------------------
 
 ## Come play with Gaming on Steroids
-[<img src="https://i.imgur.com/5rkNixK.png">](https://gamingonsteroids.com/)
+[<img src="https://i.imgur.com/5rkNixK.png">](http://gamingonsteroids.com/)
 ### [Gaming on Steroids](http://gamingonsteroids.com/)
 **For more information**
 
