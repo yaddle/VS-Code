@@ -6,7 +6,7 @@ Autocompletion snippets for Gos Ext API to use with Visual Code
 Initial release of 06/13/2017
 
 ### 0.0.2
-Added updates of Gos Ext API (03/28/2017)
+Added updates of Gos Ext API (03/28/2018)
 
 ## Usage
 
