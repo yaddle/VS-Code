@@ -1,9 +1,12 @@
 # GosExt 
 
-Autocompletion nuppets for Gos Ext API to use with Visual Code
+Autocompletion snippets for Gos Ext API to use with Visual Code
 
 ### 0.0.1
 Initial release of 06/13/2017
+
+### 0.0.2
+Added updates of Gos Ext API (03/28/2017)
 
 ## Usage
 
@@ -12,7 +15,7 @@ Initial release of 06/13/2017
 -----------------------------------------------------------------------------------------------------------
 
 ## Come play with Gaming on Steroids
-[<img src="http://i.imgur.com/5rkNixK.png">](http://gamingonsteroids.com/)
+[<img src="https://i.imgur.com/5rkNixK.png">](https://gamingonsteroids.com/)
 ### [Gaming on Steroids](http://gamingonsteroids.com/)
 **For more information**
 
