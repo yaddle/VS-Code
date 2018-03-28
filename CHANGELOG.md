@@ -7,4 +7,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 Initial release of 06/13/2017
 
 ### 0.0.2
-Added updates of Gos Ext API (03/28/2017)
+Added updates of Gos Ext API (03/28/2018)
